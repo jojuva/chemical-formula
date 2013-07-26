@@ -1,4 +1,4 @@
 chemical-formula
 ================
 
-App to help learn chemical formulatiion
+App to help learn chemical formulation
